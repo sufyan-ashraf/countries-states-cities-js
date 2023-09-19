@@ -1,6 +1,6 @@
 {
   "name": "js-countries-states-cities",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "countries states and their cities all in one package",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,11 @@
     "url": "git+https://github.com/sufyan-ashraf/js-countries-states-cities.git"
   },
   "keywords": [
-    "js-countries-states-cities"
+    "js-countries-states-cities",
+    "Country selector",
+    "Country",
+    "State",
+    "City"
   ],
   "author": "sufyan-ashraf",
   "license": "ISC",
